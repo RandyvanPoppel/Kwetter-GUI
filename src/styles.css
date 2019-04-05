@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: top center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+}
